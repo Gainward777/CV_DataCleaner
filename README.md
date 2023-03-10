@@ -1,5 +1,5 @@
 # CV_DataCleaner
-When downloading images from the Internet using a scraper like bing_image_downloader, there is a problem of strong data noise. This set is designed to solve this problem.
+When downloading images from the Internet using a scraper like bing_image_downloader, there is a problem of strong data noise. This set is designed to clear the data after downloading and prepare for use.
 
 <br><strong>Sequential launch of utilities to get the final result:</strong><br>
 
