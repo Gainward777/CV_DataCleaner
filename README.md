@@ -1,5 +1,5 @@
 # CV_DataCleaner
-A set of utilities for formatting and cleaning the image database
+When downloading images from the Internet using a scraper like bing_image_downloader, there is a problem of strong data noise. This set is designed to solve this problem.
 
 <br><strong>Sequential launch of utilities to get the final result:</strong><br>
 
