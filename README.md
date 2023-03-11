@@ -38,7 +38,7 @@ When accessed as a function, it simply returns a dictionary, without saving.<br>
 for details -h
 
 <br><strong>Libs:</strong><br>
-<strong>requirements.txt</strong><br> 
+<br><strong>requirements.txt</strong><br> 
 Contains an indication of the required libraries.<br><br>
 
 <strong>Version 0.1. The repository will be updated<strong>
